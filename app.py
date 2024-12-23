@@ -3,7 +3,7 @@ import google.generativeai as genai
 from datetime import datetime
 
 # Configure API Key (secure the key using environment variables in a real app)
-GOOGLE_API_KEY = "AIzaSyAqOlO-55G0LMagBeC-pCb2u9QnLenXmrU"
+GOOGLE_API_KEY = "YOUR_API_KEY"
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-pro')
 
