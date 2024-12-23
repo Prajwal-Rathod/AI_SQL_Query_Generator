@@ -22,7 +22,7 @@ To run this project, you need to have the following Python libraries installed:
 
 You can install the necessary dependencies by running the following:
 
-bash
+
 pip install streamlit google-generativeai
 
 Setup
