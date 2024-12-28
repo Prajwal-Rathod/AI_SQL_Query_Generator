@@ -96,7 +96,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Configure API Key
-GOOGLE_API_KEY = "YOUR API KEY"
+GOOGLE_API_KEY = "YOUR_API_KEY"
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-pro')
 
