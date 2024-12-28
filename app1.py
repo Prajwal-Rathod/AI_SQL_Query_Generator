@@ -4,7 +4,7 @@ from datetime import datetime
 import google.generativeai as genai
 import os
 
-# Configure Streamlit page
+# Configure Streamlit page 
 st.set_page_config(
     page_title="SQL Query Generator",
     page_icon=":robot:",
