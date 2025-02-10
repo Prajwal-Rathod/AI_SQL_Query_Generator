@@ -84,7 +84,7 @@ Google Generative AI: For providing the powerful AI model that enables natural l
 Google Cloud: For providing the cloud platform and API services.
 Contributors: [Your name or other contributors].
 Contact
-For any inquiries or issues, feel free to reach out via email at [your-email@example.com].
+For any inquiries or issues, feel free to reach out via email at [prajwalsc4545@gmail.com].
 
 markdown
 Copy code
