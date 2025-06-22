@@ -503,7 +503,7 @@ def main():
         ### 7. Contact Us
         For any privacy-related questions or concerns, please contact us at:
         - Email: prajwalcs4545@gmail.com
-        - Phone: +91 9353450727
+        - Phone: +91 9606436319
         """)
 
     elif selected_menu == "Contact":
